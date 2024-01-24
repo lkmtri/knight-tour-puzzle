@@ -8,10 +8,6 @@ The Knight Tour Puzzle is a mathematical problem where the task is to find a seq
 
 ![Knight's Tour Solution](resources/solution.png)
 
-<div style="display: flex; justify-content: center;">
-    <img src="resources/solution.gif" alt="Knight's Tour Search" width="400" height="400">
-</div>
-
 ## Usage
 
 To run the project, follow these steps:
