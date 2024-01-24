@@ -11,7 +11,7 @@ public class Knight {
     public Knight(int r, int c) {
         row = r;
         col = c;
-        Image knightImage = new ImageIcon("knight.png").getImage().getScaledInstance(labelSize, labelSize,
+        Image knightImage = new ImageIcon("resources/knight.png").getImage().getScaledInstance(labelSize, labelSize,
                 java.awt.Image.SCALE_SMOOTH);
         knightIcon = new ImageIcon(knightImage);
 

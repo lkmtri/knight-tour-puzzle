@@ -5,8 +5,8 @@ import java.util.*;
 
 public class Board extends JFrame implements Runnable {
     // Configure board
-    public static final int numRows = 8;
-    public static final int numCols = 8;
+    public static final int numRows = 5;
+    public static final int numCols = 5;
     public static final int squareSize = 60;
 
     // Legal moves
